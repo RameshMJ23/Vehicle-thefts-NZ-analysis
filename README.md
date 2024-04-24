@@ -4,8 +4,9 @@ Vehicle theft data of New Zealand is analyzed using Power BI
 # The Following steps are performed to analyze data:
 - The data is loaded into Power BI Desktop and the data present in the files are validated 
 - Error/invalid data is filtered and was changed to deductible values
-- Data types of columns are checked and changed if necessary 
-- Data for each year(i.e. 2021 and 2022) is extracted and are stored in separate tables for further analysis\
+- Data types of columns are checked and changed if necessary
+- Relations are defined between each table 
+- Data for each year(i.e. 2021 and 2022) is extracted and are stored in separate tables for further analysis
 - Months are extracted from date column to group and analyze month-wise theft data
 - Average thefts are calculated for months and days from the given data
 - Relatable visuals are created to interpret data based on Color of vehicles, Theft location, Type of vehicles etc..,   
